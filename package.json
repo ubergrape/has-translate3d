@@ -5,7 +5,7 @@
   "keywords": [],
   "license": "MIT",
   "dependencies": {
-    "transform-property": "0.0.1"
+    "transform-property": "ubergrape/transform-property"
   },
   "component": {
     "scripts": {
